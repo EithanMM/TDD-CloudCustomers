@@ -1,0 +1,12 @@
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\bin\Debug\net6.0\CloudCustomers.Models.deps.json
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\bin\Debug\net6.0\CloudCustomers.Models.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\bin\Debug\net6.0\CloudCustomers.Models.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.csproj.AssemblyReference.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.AssemblyInfoInputs.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.AssemblyInfo.cs
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\refint\CloudCustomers.Models.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\CloudCustomers.Models.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Models\obj\Debug\net6.0\ref\CloudCustomers.Models.dll

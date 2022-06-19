@@ -1,0 +1,15 @@
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\bin\Debug\net6.0\CloudCustomers.Interface.deps.json
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\bin\Debug\net6.0\CloudCustomers.Interface.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\bin\Debug\net6.0\CloudCustomers.Interface.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\bin\Debug\net6.0\CloudCustomers.Models.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\bin\Debug\net6.0\CloudCustomers.Models.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.csproj.AssemblyReference.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.AssemblyInfoInputs.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.AssemblyInfo.cs
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.csproj.CopyComplete
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\refint\CloudCustomers.Interface.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\CloudCustomers.Interface.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Interface\obj\Debug\net6.0\ref\CloudCustomers.Interface.dll

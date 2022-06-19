@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CloudCustomers.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CloudCustomers.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CloudCustomers.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudCustomers.Models/1.0.0": {
+      "type": "project",
+      "path": "../CloudCustomers.Models/CloudCustomers.Models.csproj",
+      "msbuildProject": "../CloudCustomers.Models/CloudCustomers.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CloudCustomers.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Eithan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Proyectos Personales\\Visual-Studio\\TDD-WebApi\\CloudCustomers\\CloudCustomers.Interface\\CloudCustomers.Interface.csproj",
+      "projectName": "CloudCustomers.Interface",
+      "projectPath": "D:\\Proyectos Personales\\Visual-Studio\\TDD-WebApi\\CloudCustomers\\CloudCustomers.Interface\\CloudCustomers.Interface.csproj",
+      "packagesPath": "C:\\Users\\Eithan\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos Personales\\Visual-Studio\\TDD-WebApi\\CloudCustomers\\CloudCustomers.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Eithan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/datasoftcr/_packaging/OWIN.Identity.INA_Pruebas/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Proyectos Personales\\Visual-Studio\\TDD-WebApi\\CloudCustomers\\CloudCustomers.Models\\CloudCustomers.Models.csproj": {
+              "projectPath": "D:\\Proyectos Personales\\Visual-Studio\\TDD-WebApi\\CloudCustomers\\CloudCustomers.Models\\CloudCustomers.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

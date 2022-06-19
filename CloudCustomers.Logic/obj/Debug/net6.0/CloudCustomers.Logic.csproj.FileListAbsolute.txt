@@ -1,0 +1,17 @@
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Logic.deps.json
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Logic.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Logic.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Interface.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Models.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Interface.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\bin\Debug\net6.0\CloudCustomers.Models.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.csproj.AssemblyReference.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.AssemblyInfoInputs.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.AssemblyInfo.cs
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.csproj.CopyComplete
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\refint\CloudCustomers.Logic.dll
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\CloudCustomers.Logic.pdb
+D:\Proyectos Personales\Visual-Studio\TDD-WebApi\CloudCustomers\CloudCustomers.Logic\obj\Debug\net6.0\ref\CloudCustomers.Logic.dll

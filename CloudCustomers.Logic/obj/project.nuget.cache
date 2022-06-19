@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkcTw8PDHgnymupxQvr9G/0N89ivxrz5zfV6hXOy2SpB+Ybm1Fw/s01JAsr93EfGCPQpStjEPxZuIJILT2IzZg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos Personales\\Visual-Studio\\TDD-WebApi\\CloudCustomers\\CloudCustomers.Logic\\CloudCustomers.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eithan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Eithan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Eithan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Eithan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
